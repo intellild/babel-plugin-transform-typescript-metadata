@@ -63,7 +63,9 @@
     "@babel/types": "^7.6.3",
     "@favoloso/conventional-changelog-emoji": "^0.10.0",
     "@release-it/conventional-changelog": "^1.1.0",
+    "@types/babel-plugin-macros": "^2.8.5",
     "@types/jest": "^24.0.19",
+    "babel-plugin-macros": "^3.1.0",
     "babel-test": "^0.2.3",
     "conventional-changelog-cli": "^2.0.25",
     "husky": "^4.2.3",
@@ -71,6 +73,9 @@
     "jest-file-snapshot": "^0.3.7",
     "release-it": "13.7.1",
     "typescript": "^3.6.4"
+  },
+  "peerDependencies": {
+    "babel-plugin-macros": "^3.1.0"
   },
   "dependencies": {
     "@babel/helper-plugin-utils": "^7.0.0"
