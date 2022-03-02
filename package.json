@@ -1,9 +1,9 @@
 {
-  "name": "babel-plugin-transform-typescript-metadata",
-  "version": "0.3.2",
+  "name": "babel-plugin-transform-typescript-metadata-macro",
+  "version": "0.1.0",
   "description": "Babel plugin to emit decorator metadata like typescript compiler",
-  "main": "lib/plugin.js",
-  "repository": "https://github.com/leonardfactory/babel-plugin-transform-typescript-metadata.git",
+  "main": "lib/macro.js",
+  "repository": "https://github.com/intellild/babel-plugin-transform-typescript-metadata.git",
   "author": "Leonardo Ascione <leonardo.ascione@gmail.com>",
   "license": "MIT",
   "files": [
