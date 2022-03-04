@@ -1,3 +1,6 @@
+# This is a temporal release for https://github.com/leonardfactory/babel-plugin-transform-typescript-metadata/pull/64
+
+
 # babel-plugin-transform-typescript-metadata
 
 [![Travis (.com)](https://img.shields.io/travis/com/leonardfactory/babel-plugin-transform-typescript-metadata.svg)](https://travis-ci.com/leonardfactory/babel-plugin-transform-typescript-metadata)

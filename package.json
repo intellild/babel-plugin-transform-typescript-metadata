@@ -23,7 +23,7 @@
     "build:lib": "babel src -d lib -x '.ts,.tsx'",
     "build:types": "tsc --emitDeclarationOnly",
     "check-types": "tsc --noEmit",
-    "release": "yarn test && yarn build && release-it",
+    "release": "yarn test && yarn build",
     "test": "jest",
     "test:dev": "jest --watch",
     "test:ci": "jest --ci --runInBand --coverage"
